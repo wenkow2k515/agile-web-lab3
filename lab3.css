@@ -1,0 +1,8 @@
+h1 {
+    text-align: center;
+    background-color: green;
+}
+.wordle, .lcm, .heap, .anagram, .color{
+    text-align: center;
+    color: blue;
+}
